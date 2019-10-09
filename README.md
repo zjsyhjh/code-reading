@@ -1,2 +1,1 @@
-# code-reading
-Golang source reading notes
+## Golang source reading notes
